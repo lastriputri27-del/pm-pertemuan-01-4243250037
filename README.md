@@ -27,7 +27,7 @@ NIM, kelas, ikon ponsel, dan kartu pesan.
 ![Hasil Flutter Doctor](screenshot-flutter-doctor.png)
 
 ## Screenshot Aplikasi
-![Tampilan aplikasi Hello World](screenshot-aplikasi.png)
+![Tampilan aplikasi Hello World](Screenshot_Aplikasi.png)
 
 ## Kendala dan Solusi
 
